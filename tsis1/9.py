@@ -23,7 +23,7 @@ for x in "banana":
   print(x)
   
   
-  a = "Hello, World!"
+a = "Hello, World!"
 print(len(a))
 
 txt = "The best things in life are free!"
@@ -41,7 +41,7 @@ if "expensive" not in txt:
   print("No, 'expensive' is NOT present.")
   
   
-  b = "Hello, World!"
+b = "Hello, World!"
 print(b[2:5])
 
 b = "Hello, World!"
